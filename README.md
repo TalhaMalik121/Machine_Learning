@@ -9,6 +9,7 @@
 - 🧠 Types of Machine Learning:
   - Supervised Learning
   - Unsupervised Learning
+  - Reinforcement Learning
 - 📊 Loaded the **Titanic Dataset** and performed **Exploratory Data Analysis (EDA)**
 
 ---
