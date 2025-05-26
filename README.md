@@ -13,9 +13,9 @@
 - 📊 Loaded the **Titanic Dataset** and performed **Exploratory Data Analysis (EDA)**
 
 
-## 📅 Week 2 Progress Report  
+## 📅 Week 2 Progress 
 
-## ✅ What I Learned
+### ✅ What I Learned
 ### 📌 Supervised Learning Concepts
 - Understood the machine learning workflow:  
   🔹 Data Preprocessing  
