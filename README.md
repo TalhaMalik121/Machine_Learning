@@ -53,5 +53,29 @@
 - Visualizations:
   - Confusion matrix heatmap
   - Predicted probability distribution
+Got it! Here’s the updated version with your addition at the end:
+
+---
+
+## 📅 **Week 3 Progress**
+
+### ✅ **What I Learned:**
+
+* Basics of **Unsupervised Learning**
+* Concepts of **Clustering** and **Dimensionality Reduction**
+
+### ✅ **What I Did:**
+
+* Applied **K-Means Clustering** on the Iris dataset
+* Performed **PCA** for dimensionality reduction and visualized the clusters
+* Completed a **Final Mini Project** on the Iris dataset including:
+
+  * Exploratory Data Analysis (EDA)
+  * Supervised learning using **Logistic Regression**
+  * Unsupervised learning using **K-Means Clustering**
+  * Model evaluation
+
+### ✅ **Summary:**
+On a clearly defined problem statement, I performed EDA, applied supervised and unsupervised learning models, and evaluated their performance.
 
 
