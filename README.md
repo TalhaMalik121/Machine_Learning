@@ -12,6 +12,7 @@
   - Reinforcement Learning
 - 📊 Loaded the **Titanic Dataset** and performed **Exploratory Data Analysis (EDA)**
 
+---
 
 ## 📅 Week 2 Progress 
 
