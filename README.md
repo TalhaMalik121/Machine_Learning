@@ -1,5 +1,3 @@
-# 🏢 Internship at DevelopersHub Corporation
-
 ## 📅 Week 1 Progress
 
 ### ✅ What I Learned:
